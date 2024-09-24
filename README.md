@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Boot Microservices
 
 # ATTENTION: This repository is archived, you can find the source code in the new repository that includes much more concepts and upto date - https://github.com/SaiUpadhyayula/spring-boot-3-microservices-course
@@ -18,3 +19,7 @@ You can watch the tutorial on Youtube here - https://www.youtube.com/watch?v=mPP
 1. Run `mvn clean verify -DskipTests` by going inside each folder to build the applications.
 2. After that run `mvn spring-boot:run` by going inside each folder to start the applications.
 
+=======
+# springBoot-mircoservices-firstApp
+SpringBoot Microservice First Application 
+>>>>>>> 479286522fa85691658cde4fd7440ba0722c5fcc
